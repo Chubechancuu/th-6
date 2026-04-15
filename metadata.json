@@ -1,8 +1,6 @@
 {
-  "name": "quản lí",
-  "description": "A comprehensive platform for students to learn, practice, and build their careers with AI-powered roadmaps, virtual internships, and CV building.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [],
-  "C7": [],
-  "aq": []
+  "name": "AI Career Hub",
+  "description": "Nền tảng siêu ứng dụng hỗ trợ học tập, thực tập ảo và phát triển sự nghiệp toàn diện cho sinh viên với công nghệ AI.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
 }
